@@ -2,7 +2,7 @@
 
 import matplotlib.pyplot as plt
 import pandas as pd
-
+from sklearn import linear_model
 def regLin(dataset,trainingSetLength,testSetLength):
     # Load CSV and columns
     df = pd.read_csv(dataset)
@@ -25,6 +25,7 @@ def regLin(dataset,trainingSetLength,testSetLength):
     regr = linear_model.LinearRegression()
     regr.fit(X_train, Y_train)
     
+
     # Plot outputs
     plt.scatter(X_test, Y_test,  color='black')
     plt.title('Test Data')
@@ -35,6 +36,6 @@ def regLin(dataset,trainingSetLength,testSetLength):
     
     print(regr.coef_)
 
-regLin("./Sample/dataset3.CSV",360,5)
+regLin("./Sample/dataset2.CSV",3600,5)
 
 

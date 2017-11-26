@@ -1,6 +1,8 @@
 import sys
 sys.path.insert(0, "..")
 import time
+import sys
+sys.path.insert(0, "..")
 
 from opcua import ua, Server
 
@@ -19,11 +21,14 @@ if __name__ == "__main__":
 
     # populating our address space
     myobj = objects.add_object(idx, "MyObject")
-    myvar = myobj.add_variable(idx, "MyVariable", 6.7)
-    myvar.set_writable(True)   
+    myvar = myobj.add_variable(idx, "MyVariable", 1.0)
+    myvar.set_writable()   #writable by clients
+    mystring  = myobj.add_variable(idx, "MyStringVariable", "Hello world !")
+    mystring.set_writable()
 
     # starting!
     server.start()
+    print("Server started !")
     
     #The server is running
     try:

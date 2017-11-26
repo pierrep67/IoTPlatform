@@ -7,9 +7,9 @@ from statsmodels.tsa.arima_model import ARIMA
 import numpy
 
 # Shows data on a chart
-def showDatas():
+def showDatas(dataset):
     # load dataset
-    series = Series.from_csv('./Sample/daily-minimum-temperatures.csv', header=0)
+    series = Series.from_csv(dataset, header=0)
     # display first few rows
     print(series.head(20))
     # line plot of dataset
@@ -17,9 +17,9 @@ def showDatas():
     pyplot.show()
 
 # Splits data to get a learn dataset and a test dataset
-def splitData():
+def splitData(dataset2):
         
-    series = Series.from_csv('./Sample/daily-minimum-temperatures.csv', header=0)
+    series = Series.from_csv(dataset2, header=0)
     split_point = len(series) - 7
     dataset, validation = series[0:split_point], series[split_point:]
     print('Dataset %d, Validation %d' % (len(dataset), len(validation)))
@@ -44,8 +44,9 @@ def inverse_difference(history, yhat, interval=1):
  
 
 # Forecast the temperature of next day
-def execute():
+def execute(dataset):
     # load dataset
+    splitData(dataset)
     series = Series.from_csv('./Sample/dataset.csv', header=None)
     series_validation = Series.from_csv('./Sample/validation.csv', header=None)
     # Set X with the value in the CSV
@@ -65,4 +66,4 @@ def execute():
     print('Forecast: %f' % forecast)
     print('Real: %f' % Y[0])
 
-execute()
+execute('./Sample/daily-minimum-temperatures.csv')

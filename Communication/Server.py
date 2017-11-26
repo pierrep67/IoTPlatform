@@ -20,7 +20,7 @@ if __name__ == "__main__":
     # populating our address space
     myobj = objects.add_object(idx, "MyObject")
     myvar = myobj.add_variable(idx, "MyVariable", 6.7)
-    myvar.set_writable()   
+    myvar.set_writable(True)   
 
     # starting!
     server.start()

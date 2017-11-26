@@ -1,36 +1,17 @@
-from opcua import Client, ua
+from opcua import Client, ua, Subscription
 from opcua.ua import ua_binary as uabin
 from opcua.common.methods import call_method
+from opcua.common.subscription import Subscription
+from opcua.ua import VariantType
 
-
-class Client:
-    def __init__(self, endpoint):
-        self.client = Client(endpoint)
-
-    def __enter__(self):
-        self.client.connect()
-        return self.client
-
-    def __exit__(self, exc_type, exc_val, exc_tb):
-        self.client.disconnect()
 
 if __name__ == '__main__':
 
-    with Client("opc.tcp://localhost:40840/iotproject/server/") as client:
+        client = Client("opc.tcp://localhost:40840/iotproject/server/")
         root = client.get_root_node()
         print("Root node is: ", root)
         objects = client.get_objects_node()
         print("Objects node is: ", objects)
-        
-        # get a specific node knowing its node id
-        var = client.get_node("ns=2;i=1")
-        print("Variable : ", var)
-        
-        name = var.get_display_name()
-        print("Name :", name)
-        
-        text = var.get_browse_name()
-        print("Text", text)
-        
-        children = var.get_children()
-        print("Children : ", children)
+        var = client.get_node(ua.NodeId(1002, 2))
+        var.set_data_value(9999,ua.VariantType.Int64)
+        print(var)

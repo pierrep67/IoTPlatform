@@ -1,0 +1,352 @@
+Humidite: 59%
+Temperature: 23 °C 
+Humidite: 47%
+Temperature: 23 °C 
+Humidite: 43%
+Temperature: 23 °C 
+Humidite: 37%
+Temperature: 22 °C 
+Humidite: 25%
+Temperature: 22 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 22%
+Temperature: 21 °C 
+Humidite: 23%
+Temperature: 21 °C 
+Humidite: 23%
+Temperature: 21 °C 
+Humidite: 25%
+Temperature: 21 °C 
+Humidite: 46%
+Temperature: 21 °C 
+Humidite: 49%
+Temperature: 22 °C 
+Humidite: 50%
+Temperature: 22 °C 
+Humidite: 50%
+Temperature: 22 °C 
+Humidite: 50%
+Temperature: 22 °C 
+Humidite: 52%
+Temperature: 22 °C 
+Humidite: 52%
+Temperature: 23 °C 
+Humidite: 50%
+Temperature: 23 °C 
+Humidite: 47%
+Temperature: 22 °C 
+Humidite: 44%
+Temperature: 22 °C 
+Humidite: 42%
+Temperature: 22 °C 
+Humidite: 41%
+Temperature: 22 °C 
+Humidite: 39%
+Temperature: 22 °C 
+Humidite: 36%
+Temperature: 22 °C 
+Humidite: 35%
+Temperature: 22 °C 
+Humidite: 34%
+Temperature: 22 °C 
+Humidite: 41%
+Temperature: 22 °C 
+Humidite: 51%
+Temperature: 22 °C 
+Humidite: 50%
+Temperature: 22 °C 
+Humidite: 50%
+Temperature: 21 °C 
+Humidite: 49%
+Temperature: 21 °C 
+Humidite: 48%
+Temperature: 21 °C 
+Humidite: 46%
+Temperature: 21 °C 
+Humidite: 45%
+Temperature: 21 °C 
+Humidite: 45%
+Temperature: 21 °C 
+Humidite: 45%
+Temperature: 21 °C 
+Humidite: 45%
+Temperature: 21 °C 
+Humidite: 45%
+Temperature: 21 °C 
+Humidite: 45%
+Temperature: 21 °C 
+Humidite: 45%
+Temperature: 21 °C 
+Humidite: 45%
+Temperature: 21 °C 
+Humidite: 45%
+Temperature: 21 °C 
+Humidite: 45%
+Temperature: 21 °C 
+Humidite: 45%
+Temperature: 21 °C 
+Humidite: 45%
+Temperature: 21 °C 
+Humidite: 45%
+Temperature: 21 °C 
+Humidite: 45%
+Temperature: 21 °C 
+Humidite: 45%
+Temperature: 21 °C 
+Humidite: 45%
+Temperature: 21 °C 
+Humidite: 45%
+Temperature: 21 °C 
+Humidite: 45%
+Temperature: 21 °C 
+Humidite: 44%
+Temperature: 21 °C 
+Humidite: 45%
+Temperature: 21 °C 
+Humidite: 45%
+Temperature: 21 °C 
+Humidite: 45%
+Temperature: 21 °C 
+Humidite: 45%
+Temperature: 21 °C 
+Humidite: 44%
+Temperature: 21 °C 
+Humidite: 43%
+Temperature: 21 °C 
+Humidite: 47%
+Temperature: 21 °C 
+Humidite: 46%
+Temperature: 22 °C 
+Humidite: 41%
+Temperature: 22 °C 
+Humidite: 44%
+Temperature: 22 °C 
+Humidite: 44%
+Temperature: 22 °C 
+Humidite: 43%
+Temperature: 23 °C 
+Humidite: 44%
+Temperature: 23 °C 
+Humidite: 44%
+Temperature: 23 °C 
+Humidite: 43%
+Temperature: 23 °C 
+Humidite: 40%
+Temperature: 23 °C 
+Humidite: 36%
+Temperature: 22 °C 
+Humidite: 33%
+Temperature: 22 °C 
+Humidite: 32%
+Temperature: 22 °C 
+Humidite: 32%
+Temperature: 22 °C 
+Humidite: 33%
+Temperature: 22 °C 
+Humidite: 32%
+Temperature: 22 °C 
+Humidite: 32%
+Temperature: 22 °C 
+Humidite: 34%
+Temperature: 22 °C 
+Humidite: 34%
+Temperature: 21 °C 
+Humidite: 34%
+Temperature: 21 °C 
+Humidite: 45%
+Temperature: 21 °C 
+Humidite: 46%
+Temperature: 22 °C 
+Humidite: 44%
+Temperature: 21 °C 
+Humidite: 40%
+Temperature: 21 °C 
+Humidite: 39%
+Temperature: 21 °C 
+Humidite: 40%
+Temperature: 21 °C 
+Humidite: 41%
+Temperature: 21 °C 
+Humidite: 41%
+Temperature: 21 °C 
+Humidite: 41%
+Temperature: 21 °C 
+Humidite: 41%
+Temperature: 21 °C 
+Humidite: 41%
+Temperature: 21 °C 
+Humidite: 41%
+Temperature: 21 °C 
+Humidite: 42%
+Temperature: 21 °C 
+Humidite: 42%
+Temperature: 21 °C 
+Humidite: 42%
+Temperature: 21 °C 
+Humidite: 42%
+Temperature: 21 °C 
+Humidite: 42%
+Temperature: 21 °C 
+Humidite: 42%
+Temperature: 21 °C 
+Humidite: 42%
+Temperature: 21 °C 
+Humidite: 41%
+Temperature: 21 °C 
+Humidite: 41%
+Temperature: 21 °C 
+Humidite: 41%
+Temperature: 21 °C 
+Humidite: 41%
+Temperature: 21 °C 
+Humidite: 41%
+Temperature: 21 °C 
+Humidite: 41%
+Temperature: 21 °C 
+Humidite: 41%
+Temperature: 21 °C 
+Humidite: 35%
+Temperature: 20 °C 
+Humidite: 31%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 19%
+Temperature: 21 °C 
+Humidite: 19%
+Temperature: 21 °C 
+Humidite: 19%
+Temperature: 21 °C 
+Humidite: 19%
+Temperature: 21 °C 
+Humidite: 19%
+Temperature: 21 °C 
+Humidite: 19%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 23%
+Temperature: 21 °C 
+Humidite: 31%
+Temperature: 21 °C 
+Humidite: 31%
+Temperature: 21 °C 
+Humidite: 31%
+Temperature: 21 °C 
+Humidite: 27%
+Temperature: 21 °C 
+Humidite: 26%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 20%
+Temperature: 21 °C 
+Humidite: 23%
+Temperature: 21 °C 
+Humidite: 25%
+Temperature: 21 °C 
+Humidite: 26%
+Temperature: 21 °C 
+Humidite: 27%
+Temperature: 21 °C 
+Humidite: 31%
+Temperature: 21 °C 
+Humidite: 31%
+Temperature: 21 °C 
+Humidite: 31%
+Temperature: 21 °C 
+Humidite: 31%
+Temperature: 21 °C 
+Humidite: 31%
+Temperature: 21 °C 
+Humidite: 31%
+Temperature: 21 °C 
+Humidite: 32%
+Temperature: 21 °C 
+Humidite: 32%
+Temperature: 21 °C 
+Humidite: 32%
+Temperature: 21 °C 
+Humidite: 32%
+Temperature: 21 °C 
+Humidite: 33%
+Temperature: 21 °C 
+Humidite: 33%
+Temperature: 21 °C 
+Humidite: 34%
+Temperature: 21 °C 
+Humidite: 34%
+Temperature: 21 °C 
+Humidite: 34%
+Temperature: 21 °C 
+Humidite: 35%
+Temperature: 20 °C 
+Humidite: 34%
+Temperature: 21 °C 
+Humidite: 34%
+Temperature: 20 °C 
+Humidite: 43%
+Temperature: 21 °C 
+Humidite: 45%
+Temperature: 21 °C 

@@ -1,0 +1,46 @@
+***Video script***
+
+File : IoT-Project-Communication.mp4
+Length : 1min 27sec
+
+*************************************
+
+0:00
+
+This video helps to get started with OPCUA and some tools
+
+0:11
+
+The 1st step is starting the server. Here we launch a demo standalone server. You can note the endpoint the URL that will be used by the client to access the server.
+
+0:22 
+
+Now a piece of code for the server will be shown.
+
+0:32
+
+This is the server script. Executing the script will start the server.
+
+It instanciates the Server class, define the endpoint URL and register the namespace. Some variables are created and a string variable "Hello world !" is added. An infinite loop guarantee that the server runs forever.
+
+0:42
+
+Now a piece of code for the client will be shown.
+
+0:52
+
+The Client class is instanciated and the client access the server through the endpoint URL. The root node and children nodes can be got. 
+A variable or object, can be accessed through its path.
+
+At the end, the string variable value is modified and the modification is checked.
+
+The script must be executed in another shell.
+****************************
+1:10
+
+This is the result of the server script execution.
+
+1:15
+
+The server can be browsed, with the software UaExpert as an example.
+The string variable value can be read and checked after modification
